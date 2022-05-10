@@ -1,5 +1,6 @@
 # Shooping-cart
-My current page:http://54.235.23.150/
+My current page:https://secure.s38.ierg4210.ie.cuhk.edu.hk/
+
 Setting up host by using aws cloud server(EC2)
 Setting up Apache Server.
 Using html,css,js,ajax,jquery for frontend.
